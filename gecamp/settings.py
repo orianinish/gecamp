@@ -25,7 +25,7 @@ SECRET_KEY = '9-vebn(j_4*j)=d_^2yi!2^l02*-5+bdirj_c54jtnn4sisb)8'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gecamp.herokuapp.com']
 
 
 # Application definition
