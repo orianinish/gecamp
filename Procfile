@@ -1,1 +1,1 @@
-web: gunicorn gecamp.wsgi
+web: gunicorn gecamp.wsgi --log-file -
